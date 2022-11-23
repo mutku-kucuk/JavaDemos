@@ -26,6 +26,7 @@ public class Main {
 		}
 		
 	}
+
 	public static void mesajVer(String mesaj) {
 		System.out.println("Sayi mevcuttur "+mesaj);
 	}
